@@ -1,0 +1,11 @@
+.generate-button:disabled{
+    background-color:#bdc3c7;
+    cursor: not-allowed;
+}
+h1{
+    font-size: 28px;
+    border-bottom: 1px solid gray;
+    display: inline-block;
+    padding-bottom: 5px;
+    padding: 10px;
+}
